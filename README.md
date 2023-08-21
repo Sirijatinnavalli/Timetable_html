@@ -1,2 +1,2 @@
 Time Table Project using basic HTML.
-Live Project : https://sirijatinnavalli.github.io/Timetable_html/
+<br>Live Project : https://sirijatinnavalli.github.io/Timetable_html/
